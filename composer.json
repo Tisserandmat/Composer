@@ -1,0 +1,21 @@
+{
+    "name": "tisserand/composer01",
+    "description": "Quete composer",
+    "authors": [
+        {
+            "name": "Tisserand Mathias",
+            "email": "tisserand.mat@gmail.com"
+        }
+    ],
+    "require": {},
+
+        "autoload":{
+        "psr-4":{
+            "App\\Wcs\\": "src/wcs"
+
+
+        }
+    }
+
+}
+
